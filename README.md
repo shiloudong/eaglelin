@@ -23,3 +23,7 @@ i make a dev branch
 newdev is dosomething
 
 del 3 line
+
+do somethin but on finish,i have to resolve master bug
+
+i haven finish this job
