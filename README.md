@@ -24,4 +24,5 @@ newdev is dosomething
 
 make a change by dev --on--ff
 new dev is make a change 
->>>>>>> newdev
+
+del change
