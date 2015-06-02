@@ -18,3 +18,10 @@ test 管理修改
 i make a dev branch 
 
 master dosometing
+i make a dev branch
+
+newdev is dosomething
+
+
+new dev is make a change 
+>>>>>>> newdev
