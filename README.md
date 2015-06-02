@@ -23,3 +23,5 @@ i make a dev branch
 newdev is dosomething
 
 del 3 line
+
+reslove some bug
