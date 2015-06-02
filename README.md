@@ -24,4 +24,10 @@ newdev is dosomething
 
 del 3 line
 
+
 reslove some bug
+
+do somethin but on finish,i have to resolve master bug
+
+i haven finish this job
+
