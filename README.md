@@ -22,6 +22,6 @@ i make a dev branch
 
 newdev is dosomething
 
-
+make a change by dev --on--ff
 new dev is make a change 
 >>>>>>> newdev
